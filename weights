@@ -1,0 +1,9 @@
+You can find the model checkpoints in this Google Drive "retinopathy_detection_checkpoints" folder, organized into three subfolders for the following:
+
+1. CNN Model: Includes weight files for the CNN model.
+2. InceptionV3 Model: Includes weight files for the InceptionV3 model.
+3. DenseNet121 Model: Includes weight files for the DenseNet121 model.
+
+To access and download the model checkpoints, follow the link below:
+
+https://drive.google.com/drive/folders/11KKLlcMqayD5hf98sA0ZuBu6O-ZjyQrz?usp=drive_link
