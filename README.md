@@ -83,14 +83,6 @@ We evaluated the model's performance using learning curves to visualize key metr
 5. **DenseNet121 Model**: Lastly, run the `DenseNet121.ipynb` notebook. The DenseNet121 model builds on the previous models and is optimized for detecting diabetic retinopathy.
 
 ---
-
-## **Project Overview**
-
-At the forefront of medical diagnostics innovation, **EagleEye** is pioneering the application of advanced deep learning techniques to revolutionize the early detection of diabetic retinopathy (DR). Our project harnesses the power of the DenseNet-121 model, a cutting-edge convolutional neural network renowned for its exceptional performance in handling complex image data. By leveraging a comprehensive dataset of fundus camera images meticulously labeled for various stages of DR, our model integrates sophisticated preprocessing techniques to enhance image quality and optimize diagnostic accuracy. This groundbreaking initiative is poised to transform the landscape of healthcare delive
-
-
----
-
 ### Technical Installation - Python Environment Specifications
 #### Libraries and Versions
 The main libraries utilized are the following:
