@@ -101,7 +101,6 @@ The main libraries utilized are the following:
 - **JSON**: Version 2.0.9, used for encoding and decoding JSON data.
  
 #### Important Notes
-#####Important Note 1
 *WARNING:* You may encounter the following message when saving models in this repository:
 *WARNING:* absl: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
 Rest assured, this is not a problem and will not affect the functionality of the repository.
