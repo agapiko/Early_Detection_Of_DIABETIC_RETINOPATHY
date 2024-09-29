@@ -69,6 +69,14 @@ Applied data augmentation to enhance model performance
 
 We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a test accuracy of 0.82 and a QWK score of 0.90, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
 
+**Instructions for Running the Code:**
+
+*   Exploratory Data Analysis (EDA): Open and run the EDA.ipynb file to explore the Aptos dataset. This notebook includes key visualizations and statistical insights into the data.
+*   Preprocessing of Aptos Dataset: After completing EDA, open and run the Preprocessing_of_APTOS_dataset.ipynb file to preprocess the dataset. This step ensures all images are resized, augmented, and properly formatted for model training.
+*     nvolutional Neural Network (CNN): Once preprocessing is done, move to the CNN.ipynb notebook. This notebook contains the implementation of a baseline CNN model for image classification. Run this code to train the CNN model on the preprocessed dataset.
+*   InceptionV3 Model: After the CNN model, run the InceptionNetV3.ipynb notebook to train the InceptionV3 model. This model will help to enhance feature extraction and classification accuracy.
+*   DensNet121 Model: Lastly, run the DenseNet121.ipynb notebook. The DenseNet121 model builds on the previous models and is optimized for detecting diabetic retinopathy.
+
 
 ---
 
