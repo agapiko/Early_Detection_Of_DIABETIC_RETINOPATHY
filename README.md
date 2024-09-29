@@ -67,7 +67,7 @@ Applied data augmentation to enhance model performance
 
 **Model Evaluation**
 
-We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a validation accuracy of 0.82 and a QWK score of 0.90, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
+We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a test accuracy of 0.82 and a QWK score of 0.90, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
 
 
 ---
