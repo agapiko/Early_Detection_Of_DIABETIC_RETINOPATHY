@@ -72,20 +72,15 @@ We evaluated the model's performance using learning curves to visualize key metr
 
 ## **Instructions for Running the Code**
 
-1. **Exploratory Data Analysis (EDA)**
-   - Open and run the `EDA.ipynb` file to explore the Aptos dataset. This notebook includes key visualizations and statistical insights into the data.
+1. **Exploratory Data Analysis (EDA)**: Open and run the `EDA.ipynb` file to explore the Aptos dataset. This notebook includes key visualizations and statistical insights into the data.
    
-2. **Preprocessing of Aptos Dataset**
-   - After completing EDA, open and run the `Preprocessing_of_APTOS_dataset.ipynb` file to preprocess the dataset. This step ensures all images are resized, augmented, and properly formatted for model training.
+2. **Preprocessing of Aptos Dataset**: After completing EDA, open and run the `Preprocessing_of_APTOS_dataset.ipynb` file to preprocess the dataset. This step ensures all images are resized, augmented, and properly formatted for model training.
    
-3. **Convolutional Neural Network (CNN)**
-   - Once preprocessing is done, move to the `CNN.ipynb` notebook. This notebook contains the implementation of a baseline CNN model for image classification. Run this code to train the CNN model on the preprocessed dataset.
+3. **Convolutional Neural Network (CNN)**: Once preprocessing is done, move to the `CNN.ipynb` notebook. This notebook contains the implementation of a baseline CNN model for image classification. Run this code to train the CNN model on the preprocessed dataset.
    
-4. **InceptionV3 Model**
-   - After the CNN model, run the `InceptionNetV3.ipynb` notebook to train the InceptionV3 model. This model will help to enhance feature extraction and classification accuracy.
+4. **InceptionV3 Model**: After the CNN model, run the `InceptionNetV3.ipynb` notebook to train the InceptionV3 model. This model will help to enhance feature extraction and classification accuracy.
    
-5. **DenseNet121 Model**
-   - Lastly, run the `DenseNet121.ipynb` notebook. The DenseNet121 model builds on the previous models and is optimized for detecting diabetic retinopathy.
+5. **DenseNet121 Model**: Lastly, run the `DenseNet121.ipynb` notebook. The DenseNet121 model builds on the previous models and is optimized for detecting diabetic retinopathy.
 
 ---
 
