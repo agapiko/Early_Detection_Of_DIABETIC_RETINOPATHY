@@ -67,7 +67,7 @@ Applied data augmentation to enhance model performance
 
 **Model Evaluation**
 
-We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a test accuracy of 0.82 and a QWK score of 0.90, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
+We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a test accuracy of **0.82** and a QWK score of **0.90**, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
 
 
 ### **Instructions for Running the Code**
@@ -116,7 +116,7 @@ The main libraries utilized are the following:
 *WARNING:* absl: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`.
 Rest assured, this is not a problem and will not affect the functionality of the repository.
  
-The current analysis in this repository was conducted using Python 3 on Google Colab.
+The current analysis in this repository was conducted using **Python 3** on **Google Colab**.
 
 ---
 
