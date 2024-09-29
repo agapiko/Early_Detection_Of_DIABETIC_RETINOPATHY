@@ -70,7 +70,7 @@ Applied data augmentation to enhance model performance
 We evaluated the model's performance using learning curves to visualize key metrics such as accuracy, loss, and Quadratic Weighted Kappa score across training epochs. The model achieved a test accuracy of 0.82 and a QWK score of 0.90, indicating a high level of agreement and accuracy. The early stopping mechanism prevented overfitting, and the model demonstrated good generalization capabilities.
 
 
-## **Instructions for Running the Code**
+### **Instructions for Running the Code**
 
 1. **Exploratory Data Analysis (EDA)**: Open and run the `EDA.ipynb` file to explore the Aptos dataset. This notebook includes key visualizations and statistical insights into the data.
    
