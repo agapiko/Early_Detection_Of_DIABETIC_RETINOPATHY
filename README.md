@@ -48,7 +48,7 @@ Our strategies for achieving our objectives include integrating our system with 
 
 Our technical approach focuses on refining model performance through techniques such as data augmentation, metric selection, and training callbacks. We employ the DenseNet-121 model, which has demonstrated superior performance in detecting diabetic retinopathy.
 
-DenseNet-121 Architecture
+**DenseNet-121 Architecture**
 
 The DenseNet-121 model is a variant of the DenseNet architecture, optimized for image classification tasks. It features a reduced number of parameters, achieved through a smaller growth rate and fewer dense blocks. This reduction in parameters leads to improved computational efficiency, memory efficiency, and training speed.
 
