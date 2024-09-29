@@ -19,8 +19,6 @@ At the forefront of medical diagnostics innovation, EagleEye is pioneering the a
 
 ---
 
----
-
 ### About Us
 
 **EagleEye** is a pioneering healthcare technology company that aims to revolutionize the diagnosis and treatment of diabetic retinopathy with AI-powered image analysis. In the complex landscape of today's healthcare, the company addresses the vital need for accurate, efficient, and swift diagnosis. EagleEye's specialization lies in detecting diabetic retinopathy, and it offers an AI-powered diagnostic system tailored for healthcare professionals. This initiative is particularly significant for ophthalmology, a field often challenged by the timeliness and precision of retinal image interpretation.
@@ -109,7 +107,9 @@ The main libraries utilized are the following:
 Rest assured, this is not a problem and will not affect the functionality of the repository.
  
 The current analysis in this repository was conducted using Python 3 on Google Colab.
- 
+
+---
+
 ### Deliverables
 1. [Documentation](#documentation)
 2. [README](#readme)
