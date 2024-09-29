@@ -138,3 +138,14 @@ The requirements.txt file lists all the dependencies needed to run the code in t
 
 ### Model Weights
 The weights.txt file provides links to access files containing weights for the best epochs of our models.
+
+---
+
+### Contributors
+
+- [x] [Agapi Koutsogianni](https://github.com/agapiko)
+- [x] [Anna Merlou](https://github.com/MerlouAnna)
+- [x] [Athina Ksanalatou](https://github.com/athinaksan)
+- [x] [Stavros Ziaragkalis](https://github.com/FoteiniNefeli)
+
+
