@@ -7,7 +7,7 @@
   <figure>
     <img src="./Logo.png" alt="EagleEye" style="width:35%">
     <br>
-    <figcaption>EagleEye: DR prediction </figcaption>
+    <figcaption>EagleEye: The Future in Diabetic Retinopathy Proactive Treatment</figcaption>
   </figure>
 </div>
 <br>
